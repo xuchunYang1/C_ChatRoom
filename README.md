@@ -20,20 +20,20 @@
 
 １．代码下载地址
 
-```
-git clone git@github.com:xuchunYang1/C_ChatRoom.git
+```shell
+$ git clone git@github.com:xuchunYang1/C_ChatRoom.git
 
 ```
 
 ２．安装 cmake
 
 ```shell
-sudo apt-get install cmake
+$ sudo apt-get install cmake
 ```
 
 ３．运行
 
-```
+```shell
 //服务器端
 $ cd /home/C_Pros/MyChatRoom/project/server
 $ cmake .
