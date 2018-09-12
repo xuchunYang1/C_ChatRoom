@@ -21,6 +21,7 @@
 １．代码下载地址
 
 ```
+git clone git@github.com:xuchunYang1/C_ChatRoom.git
 
 ```
 
